@@ -7,3 +7,4 @@ langchain-openai
 langchain-pinecone
 pinecone-client
 python-dotenv
+python-multipart
